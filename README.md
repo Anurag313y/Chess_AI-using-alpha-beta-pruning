@@ -29,12 +29,12 @@ king has two tables, early game and late game tables to determine how it moves.T
 using the board evaluation function.<br/>
 The entire board score = (White position score + white piece score) - (Black position score + black piece score)<br/>
 Here we used following piece values for the different chess pieces : <br/>
-    - pawn    = 1000 (since it is least important)<br/>
-    - rook    = 5000<br/>
-    - knight  = 3000<br/>
-    - bishop  = 3000<br/>
-    - queen   = 9000<br/>
-    - king    = 1000000 (since it is most important)<br/>
+* pawn    = 1000 (since it is least important)<br/>
+* rook    = 5000<br/>
+* knight  = 3000<br/>
+* bishop  = 3000<br/>
+* queen   = 9000<br/>
+* king    = 1000000 (since it is most important)<br/>
     
    
    
