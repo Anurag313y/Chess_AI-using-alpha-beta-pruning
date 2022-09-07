@@ -15,7 +15,7 @@ The project is build in python3 in which you can play chess against an AI with a
    
 ## How It Works :
    ### Min-max tree : It's a decision tree used to find the best optimal move for the player. Here we use tree with depth 3.<br/>
-   <img src="https://github.com/Anurag313y/Chess_AI-using-alpha-beta-pruning/blob/master/img/Decision%20Tree.png" width="128"/>
+   <img src="https://github.com/Anurag313y/Chess_AI-using-alpha-beta-pruning/blob/master/img/Decision%20Tree.png" width="300"/>
 
 
    
