@@ -15,7 +15,8 @@ The project is build in python3 in which you can play chess against an AI with a
    
 ## How It Works :
    ### Min-max tree : It's a decision tree used to find the best optimal move for the player. Here we use tree with depth 3.<br/>
-    
+    ![chess minmax tree](https://user-images.githubusercontent.com/79958958/188952407-b6ab4f1d-6030-4ec7-be2c-7d601cf1ab6f.png)
+
 
    
 How to Play:<br/>
