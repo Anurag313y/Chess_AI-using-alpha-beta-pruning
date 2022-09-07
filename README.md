@@ -10,12 +10,12 @@ For the further optimization here I applied the concept of dynamic programming, 
 use the state value when needed.<br/>
 
 ## Libraries & Modules used :
-*PIL<br/> 
-*chess<br/> 
-*numpy<br/> 
-*pickle<br/> 
-*tkinter<br/> 
-*random<br/> 
+* PIL<br/> 
+* chess<br/> 
+* numpy<br/> 
+* pickle<br/> 
+* tkinter<br/> 
+* random<br/> 
   
    
 ## How It Works :
