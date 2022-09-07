@@ -53,8 +53,8 @@ Hence by pruning these nodes, it makes the algorithm fast.<br/><br/>
 <img src="https://github.com/Anurag313y/Chess_AI-using-alpha-beta-pruning/blob/master/img/alphabeta.png" width="600"/><br/><br/>
  
 ##Screenshot :
-<img src="" width="600"/><br/><br/>
-    
+<img src="https://github.com/Anurag313y/Chess_AI-using-alpha-beta-pruning/blob/master/img/ss1.png" width="600"/><br/><br/>
+<img src="https://github.com/Anurag313y/Chess_AI-using-alpha-beta-pruning/blob/master/img/ss3.png" width="600"/><br/><br/>    
 
    
 How to Play:<br/>
