@@ -57,12 +57,17 @@ Hence by pruning these nodes, it makes the algorithm fast.<br/><br/>
   <img src="https://github.com/Anurag313y/Chess_AI-using-alpha-beta-pruning/blob/master/img/ss1.png" width="300"/>
   <img src="https://github.com/Anurag313y/Chess_AI-using-alpha-beta-pruning/blob/master/img/ss3.png" width="300"/>
 </p>
-
+<br/>
+##Video :
     
-
+[![Watch the video](https://github.com/Anurag313y/Chess_AI-using-alpha-beta-pruning/blob/master/img/ss1.png)](https://user-images.githubusercontent.com/79958958/189039151-1b376909-167a-4330-8713-9d976e80a8d0.mp4)
    
 How to Play:<br/>
     1.git clone https://github.com/Anurag313y/Chess_AI-using-alpha-beta-pruning<br/>
     2.cd CHESS-AI/src<br/>
     3.make    #Run the make file which installs all the requirements<br/>
     4.python3 main.py<br/>
+
+
+
+
