@@ -52,13 +52,13 @@ It removes all the nodes which are not really affecting the final decision but m
 Hence by pruning these nodes, it makes the algorithm fast.<br/><br/>
 <img src="https://github.com/Anurag313y/Chess_AI-using-alpha-beta-pruning/blob/master/img/alphabeta.png" width="600"/><br/><br/>
  
-##Screenshot :
+## Screenshot :
 <p float="center" >
   <img src="https://github.com/Anurag313y/Chess_AI-using-alpha-beta-pruning/blob/master/img/ss1.png" width="300"/>
   <img src="https://github.com/Anurag313y/Chess_AI-using-alpha-beta-pruning/blob/master/img/ss3.png" width="300"/>
 </p>
 <br/>
-##Video :
+## Video :
     
 [![Watch the video](https://github.com/Anurag313y/Chess_AI-using-alpha-beta-pruning/blob/master/img/ss1.png)](https://user-images.githubusercontent.com/79958958/189039151-1b376909-167a-4330-8713-9d976e80a8d0.mp4)
    
